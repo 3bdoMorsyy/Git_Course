@@ -1,0 +1,5 @@
+add ---> git add
+status --> git status
+commit --> git commit -m ""
+reset --> git reset head
+push --> git push RemoteName BranchName  
